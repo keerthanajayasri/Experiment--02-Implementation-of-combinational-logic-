@@ -21,13 +21,19 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Program:
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: keertana jayasri s k
+RegisterNumber:212222110019
+
 */
+![WhatsApp Image 2023-04-26 at 13 55 02](https://user-images.githubusercontent.com/121163440/234516823-990d8245-813c-43fc-b04a-1388b670abcf.jpg)
+![WhatsApp Image 2023-04-26 at 13 55 03](https://user-images.githubusercontent.com/121163440/234517194-3a17776e-0b11-42f6-b0be-6326f1679e4a.jpg)
+
 ## RTL realization
 
 ## Output:
 ## RTL
 ## Timing Diagram
+![WhatsApp Image 2023-04-26 at 13 55 03](https://user-images.githubusercontent.com/121163440/234517293-c8483a4a-32ed-4eb6-ae3f-4db3bc77b826.jpg)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
